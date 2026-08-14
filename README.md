@@ -1,4 +1,4 @@
-# Don't forget to star
+# Don't forget to star ⭐
 
 <img width="919" height="512" alt="image" src="https://github.com/user-attachments/assets/37a19e8f-0233-48a5-bb06-79e75d30186e" />
 
