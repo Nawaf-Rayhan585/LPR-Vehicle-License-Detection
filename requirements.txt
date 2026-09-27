@@ -2,5 +2,4 @@ streamlit
 opencv-python
 numpy
 ultralytics
-paddleocr
-paddlepaddle
+easyocr
